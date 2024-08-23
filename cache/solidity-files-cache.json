@@ -1,8 +1,8 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/workspace/swa6/contracts/Hello_swtr.sol": {
-      "lastModificationDate": 1723369732754,
+    "/workspaces/swa6/contracts/Hello_swtr.sol": {
+      "lastModificationDate": 1724398703056,
       "contentHash": "f9647803bbb702664174eed17d57dc3d",
       "sourceName": "contracts/Hello_swtr.sol",
       "solcConfig": {
